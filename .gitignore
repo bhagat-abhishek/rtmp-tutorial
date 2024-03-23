@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# environment variables
+.env
+
+# npm debugging logs
+npm-debug.log*
+
+# yarn lockfile
+yarn.lock
+
+# Mac OS system files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Editor files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
